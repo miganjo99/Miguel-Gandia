@@ -14,18 +14,18 @@ This comprehensive course has allowed me to deepen my understanding of web techn
 ## 🚀 Projects
 - **Sweethome:** This project is part of the 1st year Web Application Development (DAW) course at IES L’Estació Ontinyent. The objective is to create a complete web application that includes the following functionalities:
 
-Home and Shop page implementations
-User authentication (Auth)
-Social authentication (Social Auth)
-Shopping cart
-Likes system
-Filters (Inside the shop)
-Search
-Profile.
+              - Home and Shop page implementations
+              - User authentication (Auth)
+              - Social authentication (Social Auth)
+              - Shopping cart
+              - Likes system
+              - Filters (Inside the shop)
+              - Search
+              - Profile.
 
-[GitHub Link]((https://github.com/miganjo99/sweethome))
+https://github.com/miganjo99/sweethome
 
 
-MovieGoing:** Movie Going is a movie database using TheMovieDB API
+- **MovieGoing:** Movie Going is a movie database using TheMovieDB API
 
-. [GitHub Link]([https://github.com](https://github.com/j-maestre/MovieGoing))
+https://github.com/j-maestre/MovieGoing
