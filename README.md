@@ -7,7 +7,14 @@ This comprehensive course has allowed me to deepen my understanding of web techn
 ## 🌟 Technologies I Have Learned
 <div align="center">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=css,html,jquery,js,php,mysql,mongodb,github,vscode,powershell" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=css,html,jquery,js,php,mysql,mongodb,github,vscode,powershell,docker,jenkins,tailwind,bootstrap" style="max-width: 100%;">
+  </a>
+</div>
+
+### 📚 Currently Learning
+<div align="center">
+  <a href="https://skillicons.dev" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" style="max-width: 100%;">
   </a>
 </div>
 
