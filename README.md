@@ -14,7 +14,7 @@ This comprehensive course has allowed me to deepen my understanding of web techn
 ### 📚 Currently Learning
 <div align="center">
   <a href="https://skillicons.dev" rel="nofollow">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel" style="max-width: 100%;">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,typescript" style="max-width: 100%;">
   </a>
 </div>
 
