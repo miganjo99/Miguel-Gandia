@@ -26,7 +26,20 @@ This comprehensive course has allowed me to deepen my understanding of web techn
 https://github.com/miganjo99/sweethome
 
 
-- **MovieGoing:** Movie Going is a movie database using TheMovieDB API
+- **MovieGoing:**
+  MovieGoing is a web-based movie discovery and browsing platform that provides users with comprehensive movie information, personal list management, and social features. The application serves as a frontend interface to **The Movie Database (TMDB) API**, offering movie search, filtering, ratings display, and user authentication functionality.  
+
+**Main Features:**
+  - **Movie Discovery:** Browse and search movies with TMDB API integration.  
+  - **User Authentication:** Login system with profile management.  
+  - **List Management:** Add/remove movies from personal lists using localStorage.  
+  - **Content Rendering:** Display detailed movie/series info with trailers and ratings.  
+  - **External Integrations:** YouTube for trailers, FilmAffinity for extended info, and Font Awesome for icons.  
+
+**Architecture Overview:**  
+  - Multi-page architecture with shared core logic.  
+  - Client-side data flow for API calls, local storage updates, and DOM manipulation.  
+  - Configuration-based API handling with secrets.js excluded from version control.  
 
 https://github.com/j-maestre/MovieGoing
 
@@ -34,12 +47,12 @@ https://github.com/j-maestre/MovieGoing
 FURBO is a comprehensive web application that serves as a digital archive and management system for the Ontinyent 1931 football team. The system provides detailed match statistics, player profiles, and historical data through a responsive web interface.  
 
 **Main Features:**
-- **Match Management System:** Browse, filter, and analyze matches with detailed statistics.  
-- **Player Management System:** Search, filter, and explore player profiles and performance data.  
-- **Responsive Design:** Mobile-first layout with optimized experiences for desktop and mobile devices.  
-- **Static Data Architecture:** Operates on JavaScript arrays (matches, players, rivals, and stats) without requiring a traditional database.  
-- **Performance Optimizations:** Client-side filtering, lazy loading, and efficient DOM manipulation.  
-- **External Integrations:** YouTube highlights embedding, Twitter widgets, and FontAwesome icons.  
+  - **Match Management System:** Browse, filter, and analyze matches with detailed statistics.  
+  - **Player Management System:** Search, filter, and explore player profiles and performance data.  
+  - **Responsive Design:** Mobile-first layout with optimized experiences for desktop and mobile devices.  
+  - **Static Data Architecture:** Operates on JavaScript arrays (matches, players, rivals, and stats) without requiring a traditional database.  
+  - **Performance Optimizations:** Client-side filtering, lazy loading, and efficient DOM manipulation.  
+  - **External Integrations:** YouTube highlights embedding, Twitter widgets, and FontAwesome icons.  
 
 **Purpose:**  
 To provide fans, analysts, and players with a centralized platform to access Ontinyent 1931’s historical and current performance data.  
