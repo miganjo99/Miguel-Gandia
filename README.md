@@ -19,6 +19,16 @@ This comprehensive course has allowed me to deepen my understanding of web techn
 </div>
 
 ## 🚀 Projects
+- **Calisthenos:** Calisthenos is a full-stack web application built as the final project of the Higher Degree in Web Application Development (DAW). It is designed for calisthenics enthusiasts who want to track their training, manage routines, and monitor their personal progress over time.
+  
+              - Full-stack architecture with Next.js 14 (App Router) and TypeScript
+              - Secure authentication with Auth.js
+              - Relational database managed with Prisma ORM and PostgreSQL
+              - Responsive UI built with Tailwind CSS and React components
+              - Deployed to production on Vercel
+              - RESTful API routes for routine and exercise management
+https://github.com/miganjo99/calisthenos
+🔗 Live demo: https://calisthenos.vercel.app
 - **Sweethome:** This project is part of the 1st year Web Application Development (DAW) course at IES L’Estació Ontinyent. The objective is to create a complete web application that includes the following functionalities:
 
               - Home and Shop page implementations
